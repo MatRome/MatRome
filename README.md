@@ -1,6 +1,6 @@
 ## Hi there!
 ## 💻 About Me
-🎓 **Student of Computer Science and Econometrics** at **AGH University of Science and Technology** (since 2023)  
+🎓 **Student of Computer Science and Econometrics** at **AGH University** (since 2023)  
 📊 Passionate about **Data Science, Machine Learning, and Statistical Analysis**  
 📈 Strong skills in **data visualization, financial analysis, and predictive modeling**  
 🔍 Open to collaborations and exciting new projects in data science and software development 
