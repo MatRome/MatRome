@@ -20,7 +20,7 @@
 🔹 **[Breast Cancer Diagnostic Analysis](https://github.com/MatRome/breast-cancer-analysis)** – Machine learning project utilizing logistic regression and decision trees to classify tumors based on medical data. Visualized distributions and identified risk factors using statistical techniques.
 
 ## 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mtromek@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mtromek@gmail.com) mtromek@gmail.com
 
 <!--
 **MatRome/MatRome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
