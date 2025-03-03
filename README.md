@@ -13,8 +13,6 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📂 Featured Projects
 🔹 **[EDA - Heart Disease Analysis](https://github.com/MatRome/heart-disease-analysis)** – Exploratory data analysis (EDA) for identifying heart disease risk factors. Utilized statistical methods to analyze relationships between cholesterol levels, blood pressure, and other patient features.  
